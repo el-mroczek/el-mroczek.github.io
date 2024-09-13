@@ -1,11 +1,13 @@
 p{
-    color: violet;
+    color: rgb(255, 255, 255);
     font-size:medium;
     font-weight:900;
     font-family:monospace;
+    
 }
 body{
-background-color:black;
+background-color:rgb(255, 0, 191);
+
 
 
 
